@@ -1,0 +1,11 @@
+{
+  "name" : "Mugilan",
+  "empid" : 12345,
+  "email" : [ "mugilan@gmail.com", "monish@gmail.com" ],
+  "spouse" : {
+    "name" : "Nishi",
+    "mail" : "nishi@gmail.com",
+    "phone" : [ 9876543, 9988776 ]
+  },
+  "job" : "QA"
+}
